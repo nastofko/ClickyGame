@@ -1,0 +1,41 @@
+.card {
+  -webkit-transition: all 0.5s ease;
+     -moz-transition: all 0.5s ease;
+       -o-transition: all 0.5s ease;
+      -ms-transition: all 0.5s ease;
+          transition: all 0.5s ease;
+    background: rgb(85, 11, 11);
+    border-radius: 2px;
+    height: 250px;
+    margin: 1rem;
+    position: relative;
+    width: 320px;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    text-align: left;
+    
+    
+  }
+
+  .card:hover {
+    -webkit-transform: rotate(-10deg);
+       -moz-transform: rotate(-10deg);
+         -o-transform: rotate(-10deg);
+        -ms-transform: rotate(-10deg);
+            transform: rotate(-5deg);
+  }
+  
+  .card > .img-container {
+    height: 90%;
+    overflow: hidden;
+    text-align: center;
+    background:rgb(0, 0, 0);
+  }
+  .card > .img-container > img {
+    width: 120%
+  }
+  
+  .card > .content {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: 15px;
+  }

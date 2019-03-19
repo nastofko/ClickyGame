@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Quan Chi",
+      "image": "http://cdn3.whatculture.com/images/2019/01/3df66699cfed1180-600x338.png",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Scorpion",
+      "image": "https://cdn.segmentnext.com/wp-content/uploads/2018/05/ss_c0596a7cb6bd89bf07e35f2aa43ec9829422a507.1920x1080_1512217487-e1526039635170.jpg",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Kabal",
+      "image": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2019/01/17/mortal-kombat-11-kabal-character-roster-tease-2019-launch-gameplay-debut-re_feature.jpg",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Raiden",
+      "image": "https://www.syfy.com/sites/syfy/files/styles/1200x680/public/2019/01/mortal_kombat_11_via_official_youtube_trailer_2019.png",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Sub-zero",
+      "image": "https://cdn.ndtv.com/tech/gadgets/sub-zero_mortal_kombat_x_warner_bros.jpeg?output-quality=80",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Jade",
+      "image": "https://www.dualshockers.com/wp-content/uploads/2019/02/Jade-Mortal-Kombat-11.png",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "DVorah",
+      "image": "https://imgnooz.com/sites/default/files/wallpaper/games/58922/dvorah-mortal-kombat-x-wallpapers-58922-9537726.jpg",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Sonya Blade",
+      "image": "https://assets.vg247.com/current//2019/01/mortal_kombat_11_sonya_blade.jpg",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Baraka",
+      "image": "https://i.ytimg.com/vi/GhXzNS_Nuyg/maxresdefault.jpg",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "Kano",
+      "image": "https://d1lss44hh2trtw.cloudfront.net/assets/editorial/2019/01/mortal-kombat-11-kano-announcement-brazil-skin.jpg",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Shinnok",
+      "image": "https://cdn3.whatculture.com/images/2019/02/8dfdaf642a023e1c-600x338.png",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Shao Khan",
+      "image": "https://sm.ign.com/ign_in/news/m/mortal-kom/mortal-kombat-11-shao-khan-character-model-impresses-fans_ftc5.jpg",
+      "count": 0
+    }
+  ]
